@@ -1,0 +1,63 @@
+
+
+body {
+	
+	display: block;
+	background: #fff;
+	margin: 0px;
+	padding: 150px 0px 0px;
+	font-size: 1.2em;
+	line-height: 1.6em;
+	font-family: sans-serif;
+	text-align: center;
+	
+}
+
+	#container {
+		
+		display: block;
+		position: relative;
+		margin: 0px auto;
+		padding: 0px;
+		width: 720px;
+		
+	}
+
+	h1 {
+		
+		margin: 0px;
+		padding: 0px;
+		height: 150px;
+		text-indent: -10000px;
+		background: url(../images/ocd.png) center bottom no-repeat;
+		background-size: contain;
+		
+	}
+	
+	p {
+		margin-top: 30px;
+	}
+	
+	ul {
+		
+		display: block;
+		margin: 0px;
+		padding: 0px;
+	}
+	
+	ul li {
+		display: inline-block;
+		list-style: none;
+	}
+	
+	ul li a {
+		
+		display: block;
+		border-radius: 10px;
+		background-color: #eee;
+		color: #333;
+		text-decoration: none;
+		padding: 5px 7px 3px;
+		margin: 0px 10px;
+		
+	}
